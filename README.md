@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed SQL queries regarding various business questions can be found here [link]().
 
 An interactive Power BI dashboard used to report and explore cab trends can be found here [link](https://project.novypro.com/OGcnNS).
 
