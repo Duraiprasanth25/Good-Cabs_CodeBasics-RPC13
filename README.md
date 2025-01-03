@@ -1,15 +1,18 @@
-# Good-Cabs
+# Good Cabs
 Codebasics Resume Project Challenge #13 
 
 # Project Background
-GoodCabs is a leading urban mobility solution provider, committed to offering convenient, affordable, and reliable transportation services. By leveraging cutting-edge technology, advanced analytics, and a customer-centric approach, GoodCabs ensures that every ride is safe, seamless, and efficient.
+Good Cabs is a leading urban mobility service provider, committed to offering convenient, affordable, and reliable transportation services. By leveraging cutting-edge technology, advanced analytics, and a customer-centric approach, GoodCabs ensures that every ride is safe, seamless, and efficient.
+
+Domain - Transportation & Mobility
+Function - Operations
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Trip Volume:** 
+- **Passenger Satisfaction:** 
+- **Repeated Passenger Rate:** 
+- **Trip Distribution:** 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
