@@ -43,13 +43,13 @@ This project analyzed trip data for GoodCabs to uncover insights regarding custo
 ### Customer Behavior
 
 - **Repeat Passengers Drive Revenue**  
-  The majority of trips taken by repeat passengers (57%) contribute significantly to overall revenue. Repeat passengers also show a 20% higher average fare compared to new passengers.
+  The majority of trips taken by repeated passengers (52%) contribute significantly to overall revenue. Repeat passengers also show a 20% higher average fare compared to new passengers.
   
 - **Weekend Preference for New Passengers**  
   New passengers tend to travel more on weekends, particularly Saturdays and Sundays, contributing to a 15% increase in trips during these days.
   
 - **Business-Focused Cities See Longer Trips**  
-  Cities like Bengaluru and Hyderabad show longer average trip durations and higher fares, suggesting that these cities are more business-oriented.
+  Cities like Jaipur and Kochi show longer average trip durations and higher fares, suggesting that these cities are more tourism-oriented.
   
 - **Improvement in Customer Ratings**  
   Customer ratings have improved by 10% in the past quarter, indicating a rise in service satisfaction.
@@ -59,7 +59,7 @@ This project analyzed trip data for GoodCabs to uncover insights regarding custo
 ### City Performance Analysis
 
 - **Top Cities by Fare Revenue**  
-  Bengaluru and Mumbai contribute to 65% of total fare revenue. Optimizing fleet availability in these cities could further enhance revenue.
+  Jaipur, Kochi and Chandigarh contribute to 65% of total fare revenue. Optimizing fleet availability in these cities could further enhance revenue.
   
 - **Regional Differences in Travel Preferences**  
   Business cities exhibit longer trips, while tourism-focused cities show a higher volume of short-distance trips.
@@ -91,10 +91,10 @@ This project analyzed trip data for GoodCabs to uncover insights regarding custo
 ### Revenue Growth & Performance
 
 - **Monthly Revenue Growth**  
-  Revenue increased by 25% in the last quarter, with the highest growth observed in business-centric cities.
+  Revenue increased by 25% with the highest growth observed in business-centric cities.
   
 - **Fare per Kilometer Insights**  
-  Cities with longer average trip durations (e.g., Pune, Hyderabad) charge a higher fare per kilometer.
+  Cities with longer average trip durations (e.g., Jaipur, Vizag) charge a higher fare per kilometer.
   
 - **Repeat vs. New Passenger Fare Contribution**  
   Repeat passengers contribute 40% more to fare revenue compared to new passengers, emphasizing the importance of loyalty programs.
