@@ -9,10 +9,10 @@ Function - Operations
 
 Insights and recommendations are provided on the following key areas:
 
-- **Trip Volume:** 
-- **Passenger Satisfaction:** 
-- **Repeated Passenger Rate:** 
-- **Trip Distribution:** 
+- **Trip Volume** 
+- **Passenger Satisfaction** 
+- **Repeated Passenger Rate** 
+- **Trip Distribution** 
 
 Targed SQL queries regarding various business ad-hoc questions can be found here [link](https://github.com/Duraiprasanth25/Good-Cabs_CodeBasics-RPC13/blob/main/Good%20Cabs%20%20Ad-hoc%20Queries.sql).
 
