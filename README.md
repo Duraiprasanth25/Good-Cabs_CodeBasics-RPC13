@@ -20,6 +20,8 @@ An interactive Power BI dashboard used to report and explore cab trends can be f
 
 An canva report showing the insights and recommendations can be found here [link](https://www.canva.com/design/DAGajkBR5qw/PC6HR2Int_qJNkCPl-iWzg/view?utm_content=DAGajkBR5qw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3e94a29166)
 
+Have a look at the video presentation of this project here [link](https://youtu.be/qTO1loTcP1I)
+
 
 # Data Structure & Initial Checks
 
